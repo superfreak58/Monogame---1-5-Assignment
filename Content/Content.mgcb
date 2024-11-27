@@ -43,6 +43,18 @@
 /processorParam:TextureFormat=Color
 /build:football.png
 
+#begin intro screen football.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:intro screen football.png
+
 #begin saints.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -55,7 +67,7 @@
 /processorParam:TextureFormat=Color
 /build:saints.png
 
-#begin touchdown.png
+#begin touchdown (1).png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -65,7 +77,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:touchdown.png
+/build:touchdown (1).png
 
 #begin vikes.png
 /importer:TextureImporter
